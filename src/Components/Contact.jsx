@@ -67,7 +67,7 @@ const Contact = ({ bgcolor, darkmode }) => {
               </h1>
             </div>
 
-            <form action="https://formspree.io/f/mjkbzdzr" method="POST">
+            <form action="https://formspree.io/f/meojyrno" method="POST">
               <div className="flex flex-col">
                 <label
                   id="naam"
